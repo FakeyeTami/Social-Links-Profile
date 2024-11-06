@@ -1,0 +1,117 @@
+@font-face {
+    font-family: "Inter";
+    src: url("./assets/fonts/Inter-VariableFont_slnt,wght.ttf")
+        format("truetype");
+    font-weight: 400 700;
+}
+
+:root {
+    --green: hsl(75, 94%, 57%);
+
+    --white: hsl(0, 0%, 100%);
+
+    --grey700: hsl(0, 0%, 20%);
+    --grey800: hsl(0, 0%, 12%);
+    --grey900: hsl(0, 0%, 8%);
+}
+
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "inter";
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: var(--grey900);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.social-card {
+    width: 38.4rem;
+    height: 61.1rem;
+    background-color: var(--grey800);
+    border-radius: 1.2rem;
+    padding: 4rem;
+    text-align: center;
+}
+
+.social-card-info {
+    margin-bottom: 2.4rem;
+}
+
+.social-card-info h1 {
+    color: var(--white);
+    font-size: 2.4rem;
+}
+
+.social-card img {
+    width: 8.8rem;
+    height: 8.8rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1.6rem;
+}
+
+.social-card p {
+    color: var(--white);
+    font-size: 1.4rem;
+    margin-bottom: 1.8rem;
+}
+
+.social-card-info p {
+    font-size: 1.4rem;
+    color: var(--green);
+    font-weight: 600;
+}
+
+.social-card-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+.social-card-links button {
+    background-color: var(--grey700);
+    color: var(--white);
+    font-size: 1.4rem;
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+    border-radius: 0.8rem;
+    height: 4.5rem;
+    transition: all 0.5s;
+}
+
+.social-card-links button:hover {
+    background-color: var(--green);
+    color: var(--grey900);
+}
+
+@media screen and (max-width: 76.8rem) {
+    .social-card {
+        width: 32.7rem;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 76.8rem) and (max-width: 102.3rem) {
+    .social-card {
+        width: 45.6rem;
+    }
+}
