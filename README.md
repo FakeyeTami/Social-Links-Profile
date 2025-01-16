@@ -1,45 +1,103 @@
-# Social Links Profile Card
+# Social Links Profile Card Solution
 
-## Description
+<div align="center">
 
-This project is a responsive social profile card showcasing a user's basic details and links to their social media accounts. Built with HTML and CSS, it provides a visually appealing and functional design, ideal for personal or professional profile cards. The card includes a profile picture, user information, a short description, and social media buttons that change color when hovered over for enhanced interactivity.
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontend Mentor" width="80">
 
-## Features
+  <h2>Frontend Mentor Challenge</h2>
+  <p>
+    <a href="https://www.frontendmentor.io/challenges/social-links-profile-card" target="_blank"><strong>View Challenge</strong></a>
+    <br />
+    <br />
+    <a href="https://fakeyet.github.io/Social-Links-Profile-Card/" target="_blank">Live Demo</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Fakeyet/Social-Links-Profile-Card/issues" target="_blank">Report Bug</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Fakeyet/Social-Links-Profile-Card/issues" target="_blank">Request Feature</a>
+  </p>
+</div>
 
--   **Responsive Design**: Works well on various screen sizes, with media queries to adjust the layout.
--   **Interactive Buttons**: Buttons change color when hovered over, adding a user-friendly experience.
--   **Profile Details**: Includes a user image, name, location, and a short description.
--   **Custom Styling**: Utilizes custom CSS variables for easy theme modification.
+---
 
-## Technologies and Tools
+<div align="center">
 
--   **HTML5**: Structure of the webpage.
--   **CSS3**: Styling, including Flexbox for layout and media queries for responsiveness.
--   **Custom Fonts**: Includes the 'Inter' font for modern typography.
--   **CSS Variables**: Simplifies color management and theme customization.
+[![Frontend Mentor Profile](https://img.shields.io/badge/Profile-FakeyeTami-eee?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/FakeyeTami)
+[![Status Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
+[![Challenge Difficulty - Newbie](https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/challenges?difficulties=1)
 
-## Project Structure
+</div>
 
-```
-.
-├── index.html        # Main HTML structure
-├── style.css         # Custom styles for the card
-├── assets/
-│   ├── images/       # Profile image and favicon
-│   └── fonts/        # Custom fonts used in the project
-└── README.md         # Project documentation
-```
+---
 
-## How to Use
+## Table of Contents
 
-1. Clone or download this repository.
-2. Open `index.html` in a web browser to view the profile card.
-3. Customize the `index.html` and `style.css` files to change profile details or appearance.
+-   [Overview](#overview)
+    -   [The Challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My Process](#my-process)
+    -   [Built With](#built-with)
+    -   [Tools Used](#tools-used)
+-   [What I Learned](#what-i-learned)
+    -   [Continued Development](#continued-development)
+    -   [Useful Resources](#useful-resources)
+-   [Author](#author)
 
-## Preview
+---
 
-![Screenshot of Social Links Profile Card](./assets/images/preview.jpg)
+## Overview
 
-## License
+### The Challenge
 
-This project is open-source and available for any personal or commercial use.
+-   To build a responsive social profile card that showcases user details and links to their social media accounts.
+
+### Screenshot
+
+<div align="center">
+  <img src="./assets/images/preview.jpg" alt="Social Links Profile Card Solution Screenshot">
+</div>
+
+### Links
+
+-   **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-card-responsive-css-flexbox-vIksJb3eZ)
+-   **Live Demo**: [Live Site](https://fakeyeTami.github.io/Social-Links-Profile-Card/)
+
+---
+
+## My Process
+
+### Built With
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Responsive design with media queries
+
+### Tools Used
+
+-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+-   ![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20Developer%20Edition-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+
+---
+
+## What I Learned
+
+This project improved my understanding of:
+
+-   Solidified my understanding of Pseudo-classes.
+-   CSS custom properties for easier theming.
+-   Enhancing user interactivity with hover effects.
+
+### Useful Resources
+
+-   [MDN Web Docs - CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) - Provided guidance on CSS custom properties.
+-   [W3Schools - CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp) - Provided guide to properly using CSS Pseudo-classes.
+-   [CSS Tricks - Media Queries](https://www.w3schools.com/css/css_pseudo_classes.asp) - Helped implement responsiveness.
+
+---
+
+## Author
+
+-   **GitHub**: [FakeyeTami](https://github.com/FakeyeTami)
+-   **Frontend Mentor**: [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeTami)
