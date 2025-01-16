@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-card" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyet.github.io/Social-Links-Profile-Card/" target="_blank">Live Demo</a>
+    <a href="https://fakeyetami.github.io/Social-Links-Profile-Card/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Social-Links-Profile-Card/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/Fakeyetami/Social-Links-Profile-Card/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Social-Links-Profile-Card/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/Fakeyetami/Social-Links-Profile-Card/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -56,11 +56,6 @@
 <div align="center">
   <img src="./assets/images/preview.jpg" alt="Social Links Profile Card Solution Screenshot">
 </div>
-
-### Links
-
--   **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-card-responsive-css-flexbox-vIksJb3eZ)
--   **Live Demo**: [Live Site](https://fakeyeTami.github.io/Social-Links-Profile-Card/)
 
 ---
 
