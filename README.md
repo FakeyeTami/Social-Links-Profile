@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-card" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyetami.github.io/Social-Links-Profile-Card/" target="_blank">Live Demo</a>
+    <a href="https://fakeyetami.github.io/Social-Links-Profile/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/Fakeyetami/Social-Links-Profile-Card/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
