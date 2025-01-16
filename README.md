@@ -11,9 +11,9 @@
     <br />
     <a href="https://fakeyetami.github.io/Social-Links-Profile/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyetami/Social-Links-Profile-Card/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/FakeyeTami/Social-Links-Profile/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyetami/Social-Links-Profile-Card/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/FakeyeTami/Social-Links-Profile/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
