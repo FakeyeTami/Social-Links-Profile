@@ -57,6 +57,11 @@
   <img src="./assets/images/preview.jpg" alt="Social Links Profile Card Solution Screenshot">
 </div>
 
+### Links
+
+- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-semantic-html-flexbox-ZADYTQh4aX)
+- **Live Demo**: [Live Site](https://FakeyeTami.github.io/Social-Links-Profile/)
+
 ---
 
 ## My Process
