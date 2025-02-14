@@ -37,15 +37,32 @@
                     <button class="links" href="/">Twitter</button>
                     <button class="links" href="/">Instagram</button>
                 </ul>
-                <!-- <div class="attribution">
-            Challenge by
-            <a
-                href="https://www.frontendmentor.io?ref=challenge"
-                target="_blank"
-                >Frontend Mentor</a
-            >. Coded by <a href="#">Your Name Here</a>.
-        </div> -->
             </div>
         </main>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                const buttons = document.querySelectorAll(".social-card-links .links");
+                
+                buttons.forEach((button) => {
+                    button.setAttribute("tabindex", "0");
+                    button.addEventListener("keydown", (event) => {
+                        const currentIndex = Array.from(buttons).indexOf(document.activeElement);
+                        
+                        if (event.key === "ArrowDown") {
+                            event.preventDefault();
+                            buttons[(currentIndex + 1) % buttons.length].focus();
+                        } else if (event.key === "ArrowUp") {
+                            event.preventDefault();
+                            buttons[(currentIndex - 1 + buttons.length) % buttons.length].focus();
+                        } else if (event.key === "Enter" || event.key === " ") {
+                            event.preventDefault();
+                            button.click();
+                        }
+                    });
+                });
+            });
+        </script>
+
     </body>
 </html>
