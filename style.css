@@ -86,19 +86,19 @@ main {
     gap: 1.6rem;
 }
 
-.social-card-links button {
+.link {
+    display: block;
     background-color: var(--grey700);
     color: var(--white);
     font-size: 1.4rem;
     font-weight: 600;
     text-decoration: none;
-    border: none;
     border-radius: 0.8rem;
-    height: 4.5rem;
+    padding: 1.4rem;
     transition: all 0.5s;
 }
 
-.social-card-links button:hover {
+.link:hover {
     background-color: var(--green);
     color: var(--grey900);
 }
