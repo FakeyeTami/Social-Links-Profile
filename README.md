@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-card" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyetami.github.io/Social-Links-Profile/" target="_blank">Live Demo</a>
+    <a href="https://fakeyetami.github.io/social-links-profile/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/FakeyeTami/Social-Links-Profile/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/FakeyeTami/social-links-profile/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/FakeyeTami/Social-Links-Profile/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/FakeyeTami/social-links-profile/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 ### Links
 
 - **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-semantic-html-flexbox-ZADYTQh4aX)
-- **Live Demo**: [Live Site](https://FakeyeTami.github.io/Social-Links-Profile/)
+- **Live Demo**: [Live Site](https://FakeyeTami.github.io/social-links-profile/)
 
 ---
 
